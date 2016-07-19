@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="47367053564428"
+    token="-8920267550675043332" >
+
+    <task
+        name="javac"
+        duration="8742" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1115" />
+    <task
+        name="verifier"
+        duration="210" />
+
+    <artifact
+        location="C:\Users\Administrator\Desktop\ShareSDK-Android-2.7.4-8435b62e13b4797a08040a8133322571\v2.7.4\ShareSDK for Android Sample\ShareDemo\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="47367053564428" >
+        <artifact
+            location="C:\Users\Administrator\Desktop\ShareSDK-Android-2.7.4-8435b62e13b4797a08040a8133322571\v2.7.4\ShareSDK for Android Sample\ShareDemo\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

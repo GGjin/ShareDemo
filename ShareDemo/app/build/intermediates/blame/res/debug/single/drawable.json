@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\ShareSDK-Android-2.7.4-8435b62e13b4797a08040a8133322571\\v2.7.4\\ShareSDK for Android Sample\\ShareDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_progressbar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\ShareSDK-Android-2.7.4-8435b62e13b4797a08040a8133322571\\v2.7.4\\ShareSDK for Android Sample\\ShareDemo\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\ShareSDK-Android-2.7.4-8435b62e13b4797a08040a8133322571\\v2.7.4\\ShareSDK for Android Sample\\ShareDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ssdk_oks_classic_platform_cell_back.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\ShareSDK-Android-2.7.4-8435b62e13b4797a08040a8133322571\\v2.7.4\\ShareSDK for Android Sample\\ShareDemo\\app\\src\\main\\res\\drawable\\ssdk_oks_classic_platform_cell_back.xml"
+    }
+]
